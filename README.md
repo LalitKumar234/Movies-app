@@ -8,7 +8,7 @@ A modern, responsive movie discovery application built with React, TypeScript, a
 ![Vite](https://img.shields.io/badge/Vite-7.2.4-646CFF?style=for-the-badge&logo=vite)
 
 
-##Screenshots
+## Screenshots
 
 <img width="1470" height="796" alt="image" src="https://github.com/user-attachments/assets/ff59e6e0-56ad-4b50-94c0-96ca58ec07d7" />
 
