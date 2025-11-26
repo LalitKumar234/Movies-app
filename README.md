@@ -14,6 +14,8 @@ A modern, responsive movie discovery application built with React, TypeScript, a
 
 <img width="1470" height="796" alt="image" src="https://github.com/user-attachments/assets/d723e8df-243c-4022-803f-f41bfc29c48f" />
 
-![Uploading image.png…]()
+<img width="1470" height="798" alt="image" src="https://github.com/user-attachments/assets/c00e2792-b85c-4bad-9d30-3ca3c6c11ec0" />
+
+
 
 
